@@ -1,0 +1,28 @@
+.user-image{
+    height: 400px;
+    width: auto;
+    padding-top: 5%;
+  }
+
+  .id-label{
+    float: left;
+    padding-left: 10%;
+  }
+
+  .name-label{
+    float: right;
+    padding-right: 10%;
+  }
+
+  .user-div{
+      margin: 3% auto;
+      width: 500px;
+      height: 500px;
+  }
+  .user-details-div{
+    border: 1px solid black;
+  }
+
+  .user-image-div{
+    margin: 0 auto;
+  }
